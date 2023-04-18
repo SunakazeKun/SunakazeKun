@@ -8,7 +8,7 @@ Most of the time, I mod Super Mario Galaxy 2, one of my favorite games of all ti
 * **[galaxydatabase](https://github.com/SunakazeKun/galaxydatabase)**: Object Database for Super Mario Galaxy 1/2.
 * **[galaxymsbt](https://github.com/SunakazeKun/galaxymsbt)**: A text editor for Super Mario Galaxy 2.
 * **[galaxypad](https://github.com/SunakazeKun/galaxypad)**: Python tool to record PAD playback for Super Mario Galaxy 2.
-* **[galaxygst](https://github.com/SunakazeKun/galaxygst)**: Python tool to record GST object playback for Super Mario Galaxy 2.
+* **[galaxygst](https://github.com/SunakazeKun/galaxygst)**: Python tool to record GST object motion for Super Mario Galaxy 2.
 * **[Whitehole-Despaghettification](https://github.com/SunakazeKun/Whitehole-Despaghettification)**: A level editor for Super Mario Galaxy 1 & 2.
 * **[pygapa](https://github.com/SunakazeKun/pygapa)**: A tool for editing particle/effect data in Super Mario Galaxy 1 & 2.
 * **[smguseres](https://github.com/SunakazeKun/smguseres)**: UseResource generator for Super Mario Galaxy 2.
