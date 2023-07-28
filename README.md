@@ -23,7 +23,7 @@ Most of the time, I mod Super Mario Galaxy 2, one of my favorite games of all ti
 ## Miscellaneous
 * **[Blast-Corps-Save-editor](https://github.com/SunakazeKun/Blast-Corps-Save-editor)**: Blast Corps EEPROM Save Editor.
 * **[Captain-Toad-Save-editor](https://github.com/SunakazeKun/Captain-Toad-Save-editor)**: Captain Toad Treasure Tracker Save Editor.
-* **[TychoGfx](https://github.com/SunakazeKun/TychoGfx)**: Pokémon Ranger Graphics Viewer and Exporter.
+* **[ACDLC](https://github.com/SunakazeKun/ACDLC)**: A tool for creating custom DLC items in Animal Crossing City Folk.
 * **[ACWC24](https://github.com/SunakazeKun/ACWC24)**: A tool for creating distributable WC24 files for Animal Crossing City Folk.
-* **[ACDLC](https://github.com/SunakazeKun/ACDLC)**: A tool for creating, inserting and managing DLC items (custom and official) in Animal Crossing City Folk.
+* **[TychoGfx](https://github.com/SunakazeKun/TychoGfx)**: Pokémon Ranger Graphics Viewer and Exporter.
 * **[swshtools](https://github.com/SunakazeKun/swshtools)**: A collection of command line tools for Pokémon Sword & Shield.
