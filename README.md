@@ -3,7 +3,7 @@
 Most of the time, I mod Super Mario Galaxy 2, one of my favorite games of all time. Thus, it's no surprise that you'll find a lot of SMG-modding related tools here.
 
 ## Super Mario Galaxy 1 & 2
-* **[Syati](https://github.com/SunakazeKun/Syati)**: Custom code framework for Super Mario Galaxy 2.
+* **[Syati](https://github.com/SMGCommunity/Syati)**: Custom code framework for Super Mario Galaxy 2.
 * **[SMG2-Project-Template](https://github.com/SunakazeKun/SMG2-Project-Template)**: Large extension for Super Mario Galaxy 2.
 * **[galaxydatabase](https://github.com/SunakazeKun/galaxydatabase)**: Object Database for Super Mario Galaxy 1/2.
 * **[galaxymsbt](https://github.com/SunakazeKun/galaxymsbt)**: A text editor for Super Mario Galaxy 2.
